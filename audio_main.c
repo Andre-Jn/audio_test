@@ -27,5 +27,6 @@ int main()
 	status = vcsystem_audio_deinit(audio_hdl);	
 	/* audio */
 
+	printf("---------------------\n");
 	return 0;
 }
